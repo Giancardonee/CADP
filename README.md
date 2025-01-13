@@ -1,4 +1,3 @@
 # CADP
-Material de cursada normal y redictado de CADP
-
-La mejor carpeta es CADP RECURSANTE. TIENE TEORIA, PRACTICA Y REPASO DE PARCIALES
+## La carpeta de CADP normal contiene teoria
+## La carpeta de CADP Recursante tiene practica,teoria,y parciales. 
